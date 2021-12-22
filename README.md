@@ -1,3 +1,2 @@
-# Community Template Repo
+# Amazon Apparel Recommendation
 
-Template repo with docs and GitHub Actions etc, to create other projects.
